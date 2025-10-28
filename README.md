@@ -1,7 +1,7 @@
 <!-- README.md for GitHub profile: udayarumilli -->
 
 # 👋 Hi, I'm Uday Arumilli  
-**Architect • Data & AI Blogger • Author • Technologist**
+**Engineer • Architect • Data & AI Blogger • Author • Technologist**
 
 I help professionals learn practical data and AI engineering by building real-world, open-source projects.  
 I started as a technology professional (non-programmer background) and gradually learned programming, AI systems, LangChain, and web apps — now I share what I learn through projects and blogs.
