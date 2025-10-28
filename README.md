@@ -1,6 +1,6 @@
 <!-- README.md for GitHub profile: udayarumilli -->
 
-# 👋 Hi, I'm Udaya Rumilli  
+# 👋 Hi, I'm Uday Arumilli  
 **Architect • Data & AI Blogger • Author • Technologist**
 
 I help professionals learn practical data and AI engineering by building real-world, open-source projects.  
